@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSProjectGroupX
+namespace CSProjectGroup5
 {
     public class Program
     {
@@ -35,3 +35,4 @@ namespace CSProjectGroupX
         }
     }
 }
+
