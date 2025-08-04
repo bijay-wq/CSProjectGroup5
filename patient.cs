@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSProjectGroupX
+namespace CSProjectGroup5
 {
     public class Patient
     {
@@ -90,3 +90,4 @@ namespace CSProjectGroupX
         }
     }
 }
+
